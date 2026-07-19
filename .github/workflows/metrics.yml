@@ -36,6 +36,7 @@ jobs:
 
           # Commit activity per time of day / per day (coding habits)
           debug: yes
+          debug_flags: --error
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
