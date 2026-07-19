@@ -35,7 +35,7 @@ jobs:
           plugin_languages_limit: 8
 
           # Commit activity per time of day / per day (coding habits)
-          config_debug: yes
+          debug: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
